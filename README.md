@@ -1,5 +1,5 @@
-tordspage.carrd.co
-en.pronouns.page/@Tord-He.They
+https://tordspage.carrd.co/
+https://en.pronouns.page/@Tord-He.They
 <!--
 **T0rdtheC0mmi3/T0rdtheC0mmi3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
